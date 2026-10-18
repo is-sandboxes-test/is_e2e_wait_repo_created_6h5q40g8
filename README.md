@@ -1,0 +1,2 @@
+# is_e2e_wait_repo_created_6h5q40g8
+E2E chain1 repo is_e2e_wait_repo_created_6h5q40g8
